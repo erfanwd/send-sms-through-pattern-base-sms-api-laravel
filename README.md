@@ -5,4 +5,4 @@ you can send your sms through a pattern base sms api
 
 # database
 
-![alt text](https://drive.google.com/file/d/1qTTBKxj389T1gJ30RjLumi2rTBpaDV2T/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1qTTBKxj389T1gJ30RjLumi2rTBpaDV2T/view?usp=sharing" width="350" alt="accessibility text">
